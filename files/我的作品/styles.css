@@ -4243,3 +4243,32 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u888_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:26px;
+  height:26px;
+}
+#u888 {
+  position:absolute;
+  left:1211px;
+  top:171px;
+  width:26px;
+  height:26px;
+}
+#u889 {
+  position:absolute;
+  left:2px;
+  top:5px;
+  width:22px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u888_ann {
+  position:absolute;
+  left:1230px;
+  top:167px;
+  width:1px;
+  height:1px;
+}
